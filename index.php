@@ -1,3 +1,3 @@
 <?php 
-Print "Hello, World! v3";
+Print "Hello, World! V4 automatyczna zmiana";
 ?>
